@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>13 друзей Щипа</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        p {
+            font-size: 18px;
+        }
+
+        .club-description {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Название клуба по интересам</h1>
+    </header>
+    <div class="container">
+        <div class="club-description">
+            <h2>Добро пожаловать в наш клуб!</h2>
+            <p>Здесь мы обучаемся, общаемся и просто хорошо проводим время. Присоединяйтесь к нам и участвуйте в увлекательных мероприятиях и дискуссиях.</p>
+            <p>Свяжитесь с нами: +375339113316 (Алексей)</p>
+        </div>
+    </div>
+    <footer>
+        &copy; 2023 13 друзей Щипа
+    </footer>
+</body>
+</html>
