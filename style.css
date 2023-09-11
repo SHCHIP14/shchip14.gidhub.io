@@ -1,0 +1,76 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Стили для шапки сайта */
+header {
+    background-image: url('header-bg.jpg'); /* Замените на свое изображение */
+    background-size: cover;
+    color: #ffffff;
+    text-align: center;
+    padding: 150px 0;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+header img {
+    max-width: 200px; /* Размер логотипа */
+    margin-top: 20px;
+}
+
+/* Стили для заголовков и текста */
+h2 {
+    font-size: 24px;
+    color: #333;
+    margin-top: 30px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+/* Стили для фотогалереи */
+.club-photo {
+    max-width: 100%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Стили для контактной информации */
+h2.contact {
+    margin-top: 40px;
+}
+
+.contact-info {
+    font-size: 16px;
+    color: #333;
+    margin-top: 10px;
+}
+
+/* Стили для ссылок */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
